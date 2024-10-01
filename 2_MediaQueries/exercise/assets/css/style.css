@@ -129,3 +129,9 @@ button {
         background-color: #ac8a04;
     }
 }
+
+@media (max-width: 1000px) {
+    .product {
+        width: 80%;
+    }
+}
